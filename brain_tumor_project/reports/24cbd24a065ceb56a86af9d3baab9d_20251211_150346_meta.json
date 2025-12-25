@@ -1,0 +1,11 @@
+{
+  "file_name": "24cbd24a065ceb56a86af9d3baab9d.jpg",
+  "pred_class": "notumor",
+  "confidence": 99.15329813957214,
+  "timestamp": "20251211_150346",
+  "pdf": "reports\\24cbd24a065ceb56a86af9d3baab9d_20251211_150346_report.pdf",
+  "orig": "reports\\24cbd24a065ceb56a86af9d3baab9d_20251211_150346_orig.png",
+  "heat": "reports\\24cbd24a065ceb56a86af9d3baab9d_20251211_150346_heat.png",
+  "chart": "reports\\24cbd24a065ceb56a86af9d3baab9d_20251211_150346_chart.png",
+  "audio": "reports\\24cbd24a065ceb56a86af9d3baab9d_20251211_150346_explanation.mp3"
+}

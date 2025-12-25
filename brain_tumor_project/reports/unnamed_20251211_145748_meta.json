@@ -1,0 +1,11 @@
+{
+  "file_name": "unnamed.jpg",
+  "pred_class": "notumor",
+  "confidence": 46.94452881813049,
+  "timestamp": "20251211_145748",
+  "pdf": "reports\\unnamed_20251211_145748_report.pdf",
+  "orig": "reports\\unnamed_20251211_145748_orig.png",
+  "heat": "reports\\unnamed_20251211_145748_heat.png",
+  "chart": "reports\\unnamed_20251211_145748_chart.png",
+  "audio": "reports\\unnamed_20251211_145748_explanation.mp3"
+}

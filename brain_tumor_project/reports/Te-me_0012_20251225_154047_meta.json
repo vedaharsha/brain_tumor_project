@@ -1,0 +1,11 @@
+{
+  "file_name": "Te-me_0012.jpg",
+  "pred_class": "meningioma",
+  "confidence": 79.86068725585938,
+  "timestamp": "20251225_154047",
+  "pdf": "reports\\Te-me_0012_20251225_154047_report.pdf",
+  "orig": "reports\\Te-me_0012_20251225_154047_orig.png",
+  "heat": "reports\\Te-me_0012_20251225_154047_heat.png",
+  "chart": "reports\\Te-me_0012_20251225_154047_chart.png",
+  "audio": "reports\\Te-me_0012_20251225_154047_explanation.mp3"
+}

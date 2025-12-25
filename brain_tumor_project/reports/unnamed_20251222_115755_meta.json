@@ -1,0 +1,11 @@
+{
+  "file_name": "unnamed.jpg",
+  "pred_class": "pituitary",
+  "confidence": 42.6476776599884,
+  "timestamp": "20251222_115755",
+  "pdf": "reports\\unnamed_20251222_115755_report.pdf",
+  "orig": "reports\\unnamed_20251222_115755_orig.png",
+  "heat": "reports\\unnamed_20251222_115755_heat.png",
+  "chart": "reports\\unnamed_20251222_115755_chart.png",
+  "audio": "reports\\unnamed_20251222_115755_explanation.mp3"
+}

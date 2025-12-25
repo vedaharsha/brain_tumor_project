@@ -1,0 +1,11 @@
+{
+  "file_name": "3841fc26c5f31b878c165af28ae73b.png",
+  "pred_class": "pituitary",
+  "confidence": 99.65493679046631,
+  "timestamp": "20251211_150907",
+  "pdf": "reports\\3841fc26c5f31b878c165af28ae73b_20251211_150907_report.pdf",
+  "orig": "reports\\3841fc26c5f31b878c165af28ae73b_20251211_150907_orig.png",
+  "heat": "reports\\3841fc26c5f31b878c165af28ae73b_20251211_150907_heat.png",
+  "chart": "reports\\3841fc26c5f31b878c165af28ae73b_20251211_150907_chart.png",
+  "audio": "reports\\3841fc26c5f31b878c165af28ae73b_20251211_150907_explanation.mp3"
+}

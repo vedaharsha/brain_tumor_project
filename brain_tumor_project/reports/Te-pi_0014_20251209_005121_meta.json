@@ -1,0 +1,11 @@
+{
+  "file_name": "Te-pi_0014.jpg",
+  "pred_class": "pituitary",
+  "confidence": 99.37458038330078,
+  "timestamp": "20251209_005121",
+  "pdf": "reports\\Te-pi_0014_20251209_005121_report.pdf",
+  "orig": "reports\\Te-pi_0014_20251209_005121_orig.png",
+  "heat": "reports\\Te-pi_0014_20251209_005121_heat.png",
+  "chart": "reports\\Te-pi_0014_20251209_005121_chart.png",
+  "audio": "reports\\Te-pi_0014_20251209_005121_explanation.mp3"
+}

@@ -1,0 +1,11 @@
+{
+  "file_name": "unnamed.jpg",
+  "pred_class": "meningioma",
+  "confidence": 50.281864404678345,
+  "timestamp": "20251222_112629",
+  "pdf": "reports\\unnamed_20251222_112629_report.pdf",
+  "orig": "reports\\unnamed_20251222_112629_orig.png",
+  "heat": "reports\\unnamed_20251222_112629_heat.png",
+  "chart": "reports\\unnamed_20251222_112629_chart.png",
+  "audio": "reports\\unnamed_20251222_112629_explanation.mp3"
+}

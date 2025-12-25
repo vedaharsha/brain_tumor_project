@@ -1,0 +1,11 @@
+{
+  "file_name": "Midline Glioma (Article).jpg",
+  "pred_class": "meningioma",
+  "confidence": 58.189743757247925,
+  "timestamp": "20251211_150429",
+  "pdf": "reports\\Midline_Glioma__Article__20251211_150429_report.pdf",
+  "orig": "reports\\Midline_Glioma__Article__20251211_150429_orig.png",
+  "heat": "reports\\Midline_Glioma__Article__20251211_150429_heat.png",
+  "chart": "reports\\Midline_Glioma__Article__20251211_150429_chart.png",
+  "audio": "reports\\Midline_Glioma__Article__20251211_150429_explanation.mp3"
+}

@@ -1,0 +1,11 @@
+{
+  "file_name": "Te-gl_0014.jpg",
+  "pred_class": "glioma",
+  "confidence": 99.996018409729,
+  "timestamp": "20251215_134953",
+  "pdf": "reports\\Te-gl_0014_20251215_134953_report.pdf",
+  "orig": "reports\\Te-gl_0014_20251215_134953_orig.png",
+  "heat": "reports\\Te-gl_0014_20251215_134953_heat.png",
+  "chart": "reports\\Te-gl_0014_20251215_134953_chart.png",
+  "audio": "reports\\Te-gl_0014_20251215_134953_explanation.mp3"
+}

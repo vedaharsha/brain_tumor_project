@@ -1,0 +1,11 @@
+{
+  "file_name": "google.jpg",
+  "pred_class": "notumor",
+  "confidence": 96.05461359024048,
+  "timestamp": "20251211_140635",
+  "pdf": "reports\\google_20251211_140635_report.pdf",
+  "orig": "reports\\google_20251211_140635_orig.png",
+  "heat": "reports\\google_20251211_140635_heat.png",
+  "chart": "reports\\google_20251211_140635_chart.png",
+  "audio": "reports\\google_20251211_140635_explanation.mp3"
+}

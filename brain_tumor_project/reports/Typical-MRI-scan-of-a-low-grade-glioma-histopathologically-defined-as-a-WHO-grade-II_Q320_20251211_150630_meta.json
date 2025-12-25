@@ -1,0 +1,11 @@
+{
+  "file_name": "Typical-MRI-scan-of-a-low-grade-glioma-histopathologically-defined-as-a-WHO-grade-II_Q320.jpg",
+  "pred_class": "notumor",
+  "confidence": 81.51571750640869,
+  "timestamp": "20251211_150630",
+  "pdf": "reports\\Typical-MRI-scan-of-a-low-grade-glioma-histopathologically-defined-as-a-WHO-grade-II_Q320_20251211_150630_report.pdf",
+  "orig": "reports\\Typical-MRI-scan-of-a-low-grade-glioma-histopathologically-defined-as-a-WHO-grade-II_Q320_20251211_150630_orig.png",
+  "heat": "reports\\Typical-MRI-scan-of-a-low-grade-glioma-histopathologically-defined-as-a-WHO-grade-II_Q320_20251211_150630_heat.png",
+  "chart": "reports\\Typical-MRI-scan-of-a-low-grade-glioma-histopathologically-defined-as-a-WHO-grade-II_Q320_20251211_150630_chart.png",
+  "audio": "reports\\Typical-MRI-scan-of-a-low-grade-glioma-histopathologically-defined-as-a-WHO-grade-II_Q320_20251211_150630_explanation.mp3"
+}
